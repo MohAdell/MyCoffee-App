@@ -2,7 +2,8 @@
 
 A new Flutter Coffee Shop project.
 
-##Screen Video
+## Screen Video:
+
 https://github.com/user-attachments/assets/c7a51fe0-6f87-477b-9477-e1eb3ab7eca8
 
 ##The following packages were used in the project
