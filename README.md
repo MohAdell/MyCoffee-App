@@ -2,12 +2,13 @@
 
 A new Flutter Coffee Shop project.
 
+## Screenshots
+![smartmockups_m48gf74qq](https://github.com/user-attachments/assets/d9883e98-ee2e-4578-9828-7f247481ccf9)
+
 ## Screen Video
 
 https://github.com/user-attachments/assets/c7a51fe0-6f87-477b-9477-e1eb3ab7eca8
 
-## Screenshots
-![smartmockups_m48gf74qq](https://github.com/user-attachments/assets/d9883e98-ee2e-4578-9828-7f247481ccf9)
 
 ## The following packages were used in the project
 
