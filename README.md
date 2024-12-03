@@ -6,6 +6,14 @@ A new Flutter Coffee Shop project.
 
 https://github.com/user-attachments/assets/c7a51fe0-6f87-477b-9477-e1eb3ab7eca8
 
+## Screenshots
+![Screenshot_20241203_143540](https://github.com/user-attachments/assets/a4b7c854-92ed-482b-bda4-ab059e2c08d9)
+![Screenshot_20241203_143458](https://github.com/user-attachments/assets/a22adf6d-a630-450d-a444-c0af11ba9f35)
+![Screenshot_20241203_143440](https://github.com/user-attachments/assets/8066345f-3277-47a6-bb39-250ca5064471)
+![Screenshot_20241203_143353](https://github.com/user-attachments/assets/d717016a-0aa2-413b-a76d-9d99ea42487b)
+![Screenshot_20241203_143604](https://github.com/user-attachments/assets/bc7eec8f-56ad-4f17-a0a8-36ef3e4c283f)
+
+
 ## The following packages were used in the project
 
   cupertino_icons: ^1.0.8
